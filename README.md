@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ayannadmays/ayannadmays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student currently using genetic and molecular techniques to investigate the evolutionary history and underpinnings of regeneration. I use cnidarians as model system. While my wetlab and molecular techniques are used in Hydra vulgaris, I use bioinformatic tools to investigate other cnidarian species in a comparative framework
 
-Here are some ideas to get you started:
+I'm currently working on --- 🔭
+	✢ characterizing TE content and diversity in Medusozoan species
+	✢ characterizing TE activity in the regenerating Hydra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some tools and platforms I use --- 🔧
+  ✢ python
+  ✢ BLAST
+  ✢ RepeatModeler
+
+How to reach me --- ➡️
+  ✢email: aymays@ucsc.edu
+  ✢OrcID: https://orcid.org/0009-0008-4669-8973
+
+Hoie
+	kjrnifur
+		oinrovin
