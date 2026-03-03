@@ -11,12 +11,12 @@ I'm currently working on --- 🔭
 
 Some tools and platforms I use --- 🔧
 
-  ✢ python
-  ✢ BLAST
-  ✢ RepeatModeler
+  ✢  python
+  ✢  BLAST
+  ✢  RepeatModeler
 
 
 How to reach me --- ➡️
 
-  ✢email: aymays@ucsc.edu
-  ✢OrcID: https://orcid.org/0009-0008-4669-8973
+  ✢ email: aymays@ucsc.edu
+  ✢ OrcID: https://orcid.org/0009-0008-4669-8973
