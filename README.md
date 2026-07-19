@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a graduate student currently using genetic and molecular techniques to investigate the evolutionary history and underpinnings of regeneration. I use cnidarians as model system. While my wetlab and molecular techniques are used in Hydra vulgaris, I use bioinformatic tools to investigate other cnidarian species in a comparative framework
+I am an evo-devo researcher using genetic and molecular techniques to investigate the evolutionary history and underpinnings of regeneration. I use cnidarians as a model system. While my wetlab and molecular techniques are used in Hydra vulgaris, I use bioinformatic tools to investigate other cnidarian species in a comparative framework.
 
 
 I'm currently working on --- 🔭
